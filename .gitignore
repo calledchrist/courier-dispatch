@@ -1,0 +1,10 @@
+.cache/
+
+# Local environment and development files
+.env
+tmp/
+
+# Go build artifacts
+*.test
+*.out
+coverage.out
